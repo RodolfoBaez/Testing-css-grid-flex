@@ -11,7 +11,9 @@
    "title title title"
    "main header header"
    "main photos photos"
-   "main footer footer"
+   "main footer footer";
+   grid-column-gap: 1rem;
+
 }
 }
 
